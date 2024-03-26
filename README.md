@@ -4,5 +4,13 @@ Space Invaders é um jogo de viodegame de acarde clássico, cujo objetivo é des
 
 
 # Tela
+
+Essa aplicação utiliza a biblioteca Pygame 
 <br>
  <img src="Space-Invaders.gif" width="600">
+
+# Funcionalidades 
+
+- Mecanismo de detecção de colisão
+- Efeitos sonoros
+- Elementos gráficos 
